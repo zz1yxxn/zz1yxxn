@@ -11,17 +11,16 @@
 ---
 
 ## About Me
-- 🎯 관심사: LLM, Vision AI, Robotics(Physical AI), Healthcare AI
-- 🛠 최근: Unity VR 헬스케어 미니게임, 시계열 기반 예측 모델 실험
-- 🌱 학습 중: MLOps, Simulation & Control, RAG Pipeline
-- 🗣 한국어 · English
+- 🎯 관심사:Vision AI, Robotics(Physical AI), Healthcare AI
+- 🛠 최근: Unity VR 헬스케어 미니게임, 시계열 데이터 기반 예측 모델
+- 🌱 학습 중: AWS, MLOps,RAG Pipeline
 
 ## Tech Stack
 <!-- 간단한 텍스트 버전 -->
 **Langs:** Python 
-**AI/DS:** PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe  
-**Web/App:** FastAPI, React, Streamlit  
-**Cloud/DevOps:** AWS (SageMaker), Docker, Git/GitHub  
+**AI/DS:** PyTorch, TensorFlow, OpenCV, MediaPipe  
+**Web/App:** Streamlit  
+**Cloud/DevOps:** AWS (SageMaker), Git/GitHub  
 **Etc:** Unity
 
 <!-- 아이콘으로 보여주고 싶다면 (원치 않으면 삭제)
@@ -31,5 +30,5 @@
 -->
 
 ## Highlights
-- 🏆 Hackathon & Startup: Healthcare/AI 프로젝트 다수 수행
-- 🤝 팀리딩/PM: 요구사항 정의 → MVP → 데이터/AI 설계 → 배포
+- 🏆 Hackathon & Startup: AI 기반 Healthcare 프로젝트 다수 수행
+- 🤝 팀리딩/PM: 요구사항 정의 → 데이터/AI 설계 → MVP 배포
