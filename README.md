@@ -1,6 +1,6 @@
 <!-- 프로필 상단 인사 -->
 <h1 align="center">Hi there 👋, I'm Jiyoon</h1>
-<p align="center">AI · Data · Physical AI & Robotics Enthusiast</p>
+<p align="center">AI · Data · Physical AI · Roboticst</p>
 
 <!-- 뱃지(원하는 것만 남기기) -->
 <p align="center">
