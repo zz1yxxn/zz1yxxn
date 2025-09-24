@@ -4,10 +4,8 @@
 
 <!-- 뱃지(원하는 것만 남기기) -->
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
-  <a href="https://your-portfolio.com"><img src="https://img.shields.io/badge/Portfolio-Visit-blueviolet?logo=vercel" /></a>
-  <a href="https://www.linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
-  <a href="https://velog.io/@yourvelog"><img src="https://img.shields.io/badge/Blog-Velog-green?logo=velog" /></a>
+  <a href="mailto:jiyoooon.work@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/김지윤20000503"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin" /></a>
 </p>
 
 ---
