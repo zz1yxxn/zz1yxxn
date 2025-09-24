@@ -1,4 +1,4 @@
-### :venom: welcome to Jiyoon's github 👋
+### :wave: Welcome to Jiyoon's Github 👋
 
 <!--
 **zz1yxxn/zz1yxxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
