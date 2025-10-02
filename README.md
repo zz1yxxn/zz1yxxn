@@ -11,9 +11,9 @@
 ---
 
 ## About Me
-- 🎯 관심사:Vision AI, Robotics(Physical AI), Healthcare AI
+- 🎯 관심사:Data Analysis, Vision AI, Robotics(Physical AI), Healthcare AI
 - 🛠 최근: Unity VR 헬스케어 미니게임, 시계열 데이터 기반 예측 모델
-- 🌱 학습 중: AWS, MLOps,RAG Pipeline
+- 🌱 학습 중: AWS, MLOps,
 
 ## Tech Stack
 <!-- 간단한 텍스트 버전 -->
@@ -29,6 +29,4 @@
 </p>
 -->
 
-## Highlights
-- 🏆 Hackathon & Startup: AI 기반 Healthcare 프로젝트 다수 수행
-- 🤝 팀리딩/PM: 요구사항 정의 → 데이터/AI 설계 → MVP 배포
+
